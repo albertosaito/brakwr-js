@@ -1,0 +1,25 @@
+{
+  "name": "brakwr-js",
+  "version": "1.0.0",
+  "description": "Brakwr Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albertosaito/brakwr-js.git"
+  },
+  "keywords": [
+    "REST",
+    "JSON",
+    "WebService",
+    "ETL"
+  ],
+  "author": "nobuji.saito@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/albertosaito/brakwr-js/issues"
+  },
+  "homepage": "https://github.com/albertosaito/brakwr-js#readme"
+}
